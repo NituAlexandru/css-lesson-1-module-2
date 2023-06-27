@@ -1,2 +1,2 @@
-# css-lesson-1-module-2
- css-lesson-1-module-2
+# html-css-lesson-1-module-1
+ html-css-lesson-1-module-1
